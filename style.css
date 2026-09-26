@@ -335,4 +335,12 @@ footer {
         gap: 20px;
     }
 
+
+
+   /* Profile link icons */
+
+.profile-links i {
+    margin-right: 5px;
+}
+
 }
