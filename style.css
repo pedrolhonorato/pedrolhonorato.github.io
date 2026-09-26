@@ -120,6 +120,15 @@ nav a:hover {
     font-size: 0.9rem;
 }
 
+.profile-photo {
+    width: 210px;
+    height: 210px;
+    object-fit: cover;
+    border-radius: 50%;
+    display: block;
+}
+
+
 .intro-column h1 {
     margin: 0 0 8px;
     font-family: Georgia, "Times New Roman", serif;
